@@ -1,0 +1,9 @@
+
+step 1: run code in project using terminal
+    pipenv install PyMySQL flask
+
+terminal commands
+cd ----------------------------->
+cd.. --------------------------->
+pipenv install PyMySQL flask ---> install flask -> mysql and pip files
+mysql -u root -p ---------------> run mysql in terminal

@@ -1,0 +1,86 @@
+.container{
+    width: fit-content;
+    height: fit-content;
+    color: goldenrod;
+    background-color: black;
+    margin-top: 20px;
+    padding: 0px 30px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerShowDojo{
+    width: 900px;
+    height: fit-content;
+    color: goldenrod;
+    background-color: black;
+    margin-top: 20px;
+    padding: 0px 30px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#tableShowDojo{
+    width: 600px;
+    background-color: royalblue;
+    color: goldenrod;
+}
+h1{
+    margin: 20px 20px;
+    text-align: center;
+}
+body{
+    margin: 0 auto;
+    background-color: slateblue;
+    color: goldenrod;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: goldenrod;
+}
+#table{
+    color: goldenrod;
+    width: 300px;
+}
+button{
+    margin: 5px;
+}
+.editDivNinja{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+#purpleBtn{
+    width: 100px;
+    height: 30px;
+    background-color: slateblue;
+    color: goldenrod;
+}
+.spc{
+    width: 300px;
+    height: 30px;
+}
+#myFormDiv{
+    font-size: larger;
+    display: flex;
+    margin: 20px 20px 20px 0px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+select{
+    width: 100px;
+    background-color: mediumslateblue;
+    color: goldenrod;
+}
+#myForm{
+    font-size: larger;
+    color: goldenrod;
+}
+hr{
+    color: royalblue;
+    margin-right: 20px;
+}
